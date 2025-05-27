@@ -1,3 +1,3 @@
-## Welcome to Git!
-- This is coming from  'dev-thunder'
+## Hello , Git !
+
 - I'm adding this from 'new-branch'
